@@ -1,3 +1,8 @@
+# Update library dependecy
+**Update**
+
+- SDWebImage
+	- 4.0.0 -> 5.0.0
 
 # Update third library dependecy
 
